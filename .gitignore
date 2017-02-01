@@ -1,0 +1,4 @@
+node_modules/
+cookies.txt
+.env
+parsed/*
