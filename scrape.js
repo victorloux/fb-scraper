@@ -104,7 +104,7 @@
       return;
     }
     pageTitle = this.getTitle();
-    if (pageTitle === "Facebook - Log In or Sign Up") {
+    if (pageTitle === "Facebook – log in or sign up") {
       casper.echo("Attempting to log in...");
       query = {
         email: _env.fb_user,
